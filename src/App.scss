@@ -1,9 +1,15 @@
-@font-face {
-  font-family: "Trebuchet MS";
-  src: url("fonts/Trebuchet MS.ttf");
+@font-face{
+
+  font-family: 'Trebuchet MS';
+
+  src: url('fonts/Trebuchet MS.ttf');
+
   font-weight: normal;
+
   font-style: normal;
+
 }
+
 .app {
   background-image: url("pictures/prototype.jpg");
   background-size: cover;
@@ -13,5 +19,3 @@
   align-items: center;
   justify-content: center;
 }
-
-/*# sourceMappingURL=App.css.map */
